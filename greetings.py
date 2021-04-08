@@ -1,5 +1,6 @@
 greetings = [
     "hello",
     "hi",
-    "welcome"
+    "welcome",
+    "good morning"
 ]
